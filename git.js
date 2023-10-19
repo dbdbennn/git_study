@@ -1,1 +1,1 @@
-console.log("master-hello Git!");
+console.log("Merge!");
